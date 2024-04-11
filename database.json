@@ -1,0 +1,49 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "text": "I went to buy some camo pants but couldn’t find any.",
+      "told": false
+    },
+    {
+      "id": 2,
+      "text": "I always find elevator jokes to be uplifting.",
+      "told": true
+    },
+    {
+      "id": 3,
+      "text": "Most people are shocked when they find out how bad I am as an electrician.",
+      "told": false
+    },
+    {
+      "id": 4,
+      "text": "I’ve had a perfectly wonderful evening, but this wasn’t it.",
+      "told": true
+    },
+    {
+      "id": 5,
+      "text": "I failed math so many times at school, I can’t even count",
+      "told": true
+    },
+    {
+      "text": "I'm afraid for the calendar. Its days are numbered.",
+      "told": true,
+      "id": 6
+    },
+    {
+      "text": "What do a tick and the Eiffel Tower have in common?\" \"They're both Paris sites.",
+      "told": false,
+      "id": 7
+    },
+    {
+      "text": "If April showers bring May flowers, what do May flowers bring?\" \"Pilgrims.",
+      "told": false,
+      "id": 8
+    },
+    {
+      "text": "How does dry skin affect you at work?\" \"You don’t have any elbow grease to put into it.",
+      "told": false,
+      "id": 9
+    }
+  ]
+}
